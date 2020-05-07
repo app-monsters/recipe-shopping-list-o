@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "trying to auto merge"
+                echo "testing to auto merge"
             }
         }
     }
